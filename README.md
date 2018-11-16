@@ -1,8 +1,8 @@
 # debian_stretch
 ## debian stretch 源一键脚本
-**食用方法**
+##食用方法
 
-## 清华源 HTTPS##
+## 清华源 HTTPS
 
 `apt-get install apt-transport-https`
 
@@ -11,21 +11,21 @@
 
 `apt-get update && apt-get upgrade`
 
-## 163源 HTTP##
+## 163源 HTTP
 
 `wget -O /etc/apt/sources.list https://raw.githubusercontent.com/user1121114685/debian_stretch/master/163sources.list && chmod 777 /etc/apt/sources.list`
 
 
 `apt-get update && apt-get upgrade`
 
-## 阿里源 HTTP##
+## 阿里源 HTTP
 
 `wget -O /etc/apt/sources.list https://raw.githubusercontent.com/user1121114685/debian_stretch/master/ali-sources.list && chmod 777 /etc/apt/sources.list`
 
 
 `apt-get update && apt-get upgrade`
 
-## 上海交大 HTTPS##
+## 上海交大 HTTPS
 
 `apt-get install apt-transport-https`
 
@@ -34,7 +34,7 @@
 
 `apt-get update && apt-get upgrade`
 
-## 华为 HTTPS##
+## 华为 HTTPS
 
 `apt-get install apt-transport-https`
 
