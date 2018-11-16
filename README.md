@@ -1,6 +1,6 @@
 # debian_stretch
 ## debian stretch 源一键脚本
-##食用方法
+## 食用方法
 
 ## 清华源 HTTPS
 
